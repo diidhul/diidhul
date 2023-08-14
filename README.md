@@ -26,4 +26,4 @@ I'm open to new opportunities and collaborations. Let's connect and discuss how 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/alfadhil)
 - 🌐 Website: [My Portfolio Website](http://diidhul.github.io/)
 
-Looking forward to connecting with you! 🌟
+Excitedly counting down the moments until our paths intertwine! 🚀 Can't wait to create some magical connections together! 🌟
