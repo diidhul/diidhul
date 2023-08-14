@@ -17,6 +17,7 @@ Proficient in the following tools and technologies:
 - **HTML, CSS, Javascript & CMS**
 - **Basic Knowledge in IOT**
 - **Python, C & C++**
+- **Figma, Photoshop & Illustrator**
 
 ## 🌎 Let's Connect!
 
