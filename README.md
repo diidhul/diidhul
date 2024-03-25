@@ -14,8 +14,8 @@ My name alfadhil, you can call me didul. I am currently not employed but enthusi
 
 Proficient in the following tools and technologies:
 
-- **HTML, CSS, Javascript & CMS**
-- **Basic Knowledge in IOT**
+- **HTML, CSS, Javascript, React and CMS**
+- **Intermediate IOT Builder**
 - **Python, C & C++**
 - **Figma, Photoshop & Illustrator**
 
@@ -25,5 +25,6 @@ I'm open to new opportunities and collaborations. Let's connect and discuss how 
 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/alfadhil)
 - 🌐 Website: [My Portfolio Website](http://diidhul.github.io/)
+- 📷 Instagram: [Get to know me more]()
 
 Excitedly counting down the moments until our paths intertwine! 🚀 Can't wait to create some magical connections together! 🌟
